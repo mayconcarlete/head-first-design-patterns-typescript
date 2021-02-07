@@ -1,0 +1,19 @@
+{
+  "name": "chapters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayconcarlete/head-first-design-patterns-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayconcarlete/head-first-design-patterns-typescript/issues"
+  },
+  "homepage": "https://github.com/mayconcarlete/head-first-design-patterns-typescript#readme"
+}
